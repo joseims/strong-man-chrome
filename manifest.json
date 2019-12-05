@@ -1,0 +1,11 @@
+{
+    "content_scripts": [ {
+       "js": [ "jquery.js", "strongMan.js" ],
+       "matches": [ "*://*/*" ]
+    } ],
+    "description": "Surpresa",
+    "manifest_version": 2,
+    "name": "surprisee ",
+    "version": "1.0"
+ }
+ 
